@@ -1,5 +1,11 @@
-# fundata-assessment
+# Fundata-assessment
 
-This repository contains two main folders:
-  *1 Exercises folder contains several folders that explore topics suggested by our lecturer for the Fundamentals of Data Analysis course
+## Author Brid Kennedy 
+### Student Number G00411262
+
+
+This repository was set up to store assignments for Module Fundamental of Data Analysis
+It contains two main folders:
+
+  *1 Exercises folder containing several notebooks that explores topics suggested by our lecturer 
   *2 Normal Distribution Jupyter Notebook assignment
